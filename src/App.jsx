@@ -140,8 +140,6 @@ function Home(){
     <Boton texto={'ECOBOTELLAS'}lugar="Movida2" donde={'Movida2'}></Boton>
     <Boton texto={'ECONOMIA CIRCULAR'} lugar="Movida3" donde={'Movida3'}></Boton>
     <Boton texto={'PLASTICOS DE UN SOLO USO'} lugar="Movida4" donde={'Movida4'}></Boton>
-    <h3>CONSEJOS</h3>
-    <Boton texto={'CAMINAR O ANDAR EN BICICLETA'}></Boton>
   </div>
   )
 }
